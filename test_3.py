@@ -1,1 +1,1 @@
-this will give errors I think
+print('this will give errors I think')
